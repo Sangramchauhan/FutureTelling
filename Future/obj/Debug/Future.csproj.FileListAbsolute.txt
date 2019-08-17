@@ -1,0 +1,21 @@
+D:\animation\Future\Future\bin\Debug\Future.exe.config
+D:\animation\Future\Future\bin\Debug\Future.exe
+D:\animation\Future\Future\bin\Debug\Future.pdb
+D:\animation\Future\Future\obj\Debug\Future.csprojResolveAssemblyReference.cache
+D:\animation\Future\Future\obj\Debug\Future.Form1.resources
+D:\animation\Future\Future\obj\Debug\Future.Form2.resources
+D:\animation\Future\Future\obj\Debug\Future.Properties.Resources.resources
+D:\animation\Future\Future\obj\Debug\Future.csproj.GenerateResource.Cache
+D:\animation\Future\Future\obj\Debug\Future.exe
+D:\animation\Future\Future\obj\Debug\Future.pdb
+F:\Will deleted\Showcase\Future\Future\bin\Debug\Future.exe.config
+F:\Will deleted\Showcase\Future\Future\bin\Debug\Future.exe
+F:\Will deleted\Showcase\Future\Future\bin\Debug\Future.pdb
+F:\Will deleted\Showcase\Future\Future\obj\Debug\Future.csprojAssemblyReference.cache
+F:\Will deleted\Showcase\Future\Future\obj\Debug\Future.Form1.resources
+F:\Will deleted\Showcase\Future\Future\obj\Debug\Future.Form2.resources
+F:\Will deleted\Showcase\Future\Future\obj\Debug\Future.Properties.Resources.resources
+F:\Will deleted\Showcase\Future\Future\obj\Debug\Future.csproj.GenerateResource.cache
+F:\Will deleted\Showcase\Future\Future\obj\Debug\Future.csproj.CoreCompileInputs.cache
+F:\Will deleted\Showcase\Future\Future\obj\Debug\Future.exe
+F:\Will deleted\Showcase\Future\Future\obj\Debug\Future.pdb
